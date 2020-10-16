@@ -35,6 +35,8 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 
 ### gametes_unique.py 
 
+[Download list of questions in blackboard upload format](blackboard_upload/bbq-gametes_unique.txt)
+
 1. How many unique gametes could be produced through independent assortment by an individual with the genotype AA Bb cc dd Ee Ff Gg ?
 - [ ] A. 2<sup>2</sup> = 4
 - [ ] B. 2<sup>3</sup> = 8
