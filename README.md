@@ -1,9 +1,9 @@
 # genetics-problems
 Python Scripts for Generating Genetics Homework/Quiz problems
 
-[comment]: <> (https://guides.github.com/features/mastering-markdown/)
-[comment]: <> (https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes)
-[comment]: <> (https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+[comment]: <> ( https://guides.github.com/features/mastering-markdown/ )
+[comment]: <> ( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes )
+[comment]: <> ( https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax )
 
 
 ## Blood Types
@@ -30,3 +30,14 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 - [x] C. Type B blood
 - [x] D. Type AB blood
 - [ ] E. None of the above are possible
+
+## Gametes
+
+### gametes_unique.py 
+
+1. How many unique gametes could be produced through independent assortment by an individual with the genotype AA Bb cc dd Ee Ff Gg ?
+- [ ] A. 2<sup>2</sup> = 4
+- [ ] B. 2<sup>3</sup> = 8
+- [x] C. 2<sup>4</sup> = 16
+- [ ] D. 2<sup>5</sup> = 32
+- [ ] E. 2<sup>6</sup> = 64
