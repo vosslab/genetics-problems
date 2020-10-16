@@ -31,10 +31,12 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 - [x] D. Type AB blood
 - [ ] E. None of the above are possible
 
-[Download list of 2 gene questions in blackboard upload format](blackboard_upload/bbq-blood_type_mother.txt)
-[Download list of 3 gene questions in blackboard upload format](blackboard_upload/bbq-blood_type_mother.txt)
+### hla_genotype.py
 
-3. A mother has a HLA genotype of <span style="color:FireBrick">A2,B5,C6</span> on one chromosome and <span style="color:DarkGoldenRod">A1,B1,C3</span> on the other. The father has a HLA genotype of <span style="color:DarkViolet">A7,B9,C2</span> on one chromosome and <span style="color:DarkBlue">A8,B3,C5</span> on the other. Which one of the following is a possible genotype for one of their offspring?
+[Download list of 2 gene questions in blackboard upload format](blackboard_upload/bbq-hla_genotypes-2_genes.txt)
+[Download list of 3 gene questions in blackboard upload format](blackboard_upload/bbq-hla_genotypes-3_genes.txt)
+
+3. A mother has a HLA genotype of A2,B5,C6 on one chromosome and A1,B1,C3 on the other. The father has a HLA genotype of A7,B9,C2 on one chromosome and A8,B3,C5 on the other. Which one of the following is a possible genotype for one of their offspring?
 - [ ] A. A2,A8,B1,B9,C2,C3
 - [ ] B. A1,A2,B1,B5,C3,C6
 - [x] C. A2,A7,B5,B9,C2,C6
