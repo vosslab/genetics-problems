@@ -1,6 +1,11 @@
 # genetics-problems
 Python Scripts for Generating Genetics Homework/Quiz problems
 
+[comment]: <> (https://guides.github.com/features/mastering-markdown/)
+[comment]: <> (https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes)
+[comment]: <> (https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+
 ## Blood Types
 
 ### blood_type_offspring.py
