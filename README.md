@@ -70,3 +70,14 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 - [x] D. 3:1
 - [ ] E. 2:1
 - [ ] F. 1:3
+
+### epistasis_inverse_test_cross.py
+
+* [Download list of questions in blackboard upload format](blackboard_upload/bbq-epistasis_inverse_test_cross.txt)
+
+2. In an F<sub>1</sub> heterozygote individual from dihybrid cross is used for a test-cross. The progeny from the test-cross exhibited a modified <b>ratio of 3:1</b> (instead of 1:1:1:1). What phenotypic ratio would be expected in the F<sub>2</sub> progeny if the dihybrid cross is continued?
+- [x] A. 13:3
+- [ ] B. 12:4
+- [ ] C. 11:5
+- [ ] D. 10:6
+- [ ] E. 9:7
