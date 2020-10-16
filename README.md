@@ -55,3 +55,18 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 - [x] C. 2<sup>4</sup> = 16
 - [ ] D. 2<sup>5</sup> = 32
 - [ ] E. 2<sup>6</sup> = 64
+
+
+## Epistasis
+
+### epistasis_test_cross.py
+
+* [Download list of questions in blackboard upload format](blackboard_upload/bbq-epistasis_test_cross.txt)
+
+1. In a specific cross, F<sub>2</sub> progeny exhibit a modified dihybrid ratio of <b>15:1</b> (instead of 9:3:3:1 ). What phenotypic ratio would be expected from a test-cross with an individual from the F<sub>1</sub> progeny?
+- [ ] A. 1:4
+- [ ] B. 2:2 or 1:1
+- [ ] C. 4:1
+- [x] D. 3:1
+- [ ] E. 2:1
+- [ ] F. 1:3
