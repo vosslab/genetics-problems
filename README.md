@@ -8,7 +8,6 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 Table of Contents
 =================
 
-   * [genetics-problems](#genetics-problems)
       * [Blood Types](#blood-types)
          * [blood_type_offspring.py](#blood_type_offspringpy)
          * [blood_type_mother.py](#blood_type_motherpy)
