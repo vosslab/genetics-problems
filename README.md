@@ -5,6 +5,20 @@ Python Scripts for Generating Genetics Homework/Quiz problems
 [comment]: <> ( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes )
 [comment]: <> ( https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax )
 
+Table of Contents
+=================
+
+   * [genetics-problems](#genetics-problems)
+      * [Blood Types](#blood-types)
+         * [blood_type_offspring.py](#blood_type_offspringpy)
+         * [blood_type_mother.py](#blood_type_motherpy)
+         * [hla_genotype.py](#hla_genotypepy)
+      * [Gametes](#gametes)
+         * [gametes_unique.py](#gametes_uniquepy)
+      * [Epistasis](#epistasis)
+         * [epistasis_test_cross.py](#epistasis_test_crosspy)
+         * [epistasis_inverse_test_cross.py](#epistasis_inverse_test_crosspy)
+
 
 ## Blood Types
 
