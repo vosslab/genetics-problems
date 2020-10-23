@@ -95,3 +95,20 @@ Table of Contents
 - [ ] C. 11:5
 - [ ] D. 10:6
 - [ ] E. 9:7
+
+## X-linked disorders
+
+### poisson_flies.py
+
+* [Download list of questions in blackboard upload format](blackboard_upload/bbq-poisson_flies.txt)
+
+
+<p>1. The white-eyed phenotype is an X-linked recessive disorder in fruit flies. The red allele, +, is dominant to the white allele, w. The offspring of size 400 from the mating of a single female and a single male are shown in the table below:</p>
+<table cellpadding="2" cellspacing="2" style="border-collapse: collapse; text-align:center; border: 1px solid black; font-size: 14px;"><tr><th>phenotype</th><th>female &female;</th><th>male &male;</th></tr> <tr><td>red-eyed (wildtype)</td><td align='center'>0</td><td align='center'>0</td></tr> <tr><td>white-eyed (mutant)</td><td align='center'>185</td><td align='center'>215</td></tr> </table><br/>
+<p><strong>What are the genotypes of the parents in this cross?</strong></p>
+- [ ] A. homozygous wildtype female (++) and male of unknown genotype
+- [ ] B. heterozygous female (+w) and wildtype male (+&ndash;)
+- [ ] C. heterozygous female (+w) and mutant male (w&ndash;)
+- [ ] D. homozygous mutant female (ww) and wildtype male (+&ndash;)
+- [x] E. homozygous mutant female (ww) and mutant male (w&ndash;)
+
