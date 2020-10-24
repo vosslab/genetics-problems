@@ -121,7 +121,8 @@ Table of Contents
 
 * [Download list of questions in blackboard upload format](blackboard_upload/bbq-chi_square_errors.txt)
 
-<p>1. <table border="1" style="border: 1px solid black; border-collapse: collapse;"><colgroup width="160"></colgroup> <colgroup width="80"></colgroup> <colgroup width="80"></colgroup> <colgroup width="100"></colgroup> <colgroup width="80"></colgroup>
+<p>1. The final result gives the chi-squared (χ<sup>2</sup>) test value of 3.58 with 3 degrees of freedom. Using the Table of χ<sup>2</sup> Critical Values and a level of significance α=0.50, we get a critical value of 2.37. Since the chi-squared (χ<sup>2</sup>) test value of 3.58 is greater than the critical value of 2.37, the null hypothesis was rejected.</p>
+<table border="1" style="border: 1px solid black; border-collapse: collapse;"><colgroup width="160"></colgroup> <colgroup width="80"></colgroup> <colgroup width="80"></colgroup> <colgroup width="100"></colgroup> <colgroup width="80"></colgroup>
 <tbody>
 <tr><th align="center" style="background-color: lightgray;">Phenotype</th><th align="center" style="background-color: lightgray;">Expected</th><th align="center" style="background-color: lightgray;">Observed</th><th align="center" style="background-color: lightgray;">Calculation</th><th align="center" style="background-color: lightgray;">Statistic</th></tr>
 <tr>
@@ -157,9 +158,9 @@ Table of Contents
 <td align="center">3.578</td>
 </tr>
 </tbody>
-</table></p>
+</table>
 <p></p>
-<p>The final result gives the chi-squared (χ<sup>2</sup>) test value of 3.58 with 3 degrees of freedom. Using the Table of χ<sup>2</sup> Critical Values and a level of significance α=0.50, we get a critical value of 2.37. Since the chi-squared (χ<sup>2</sup>) test value of 3.58 is greater than the critical value of 2.37, the null hypothesis was rejected.</p>
+<p>
 <hr />
 <p>Your lab partner has done a chi-squared (χ<sup>2</sup>) test for your lab data (above), for the F<sub>2</sub> generation in a standard dihybid cross. They wanted to know if the results confirm the expected phenotype ratios, but as usual they did something wrong. <strong>Where did they do wrong?</strong></p>
 
