@@ -9,6 +9,7 @@ Table of Contents
 =================
 
    * [genetics-problems](#genetics-problems)
+   * [Table of Contents](#table-of-contents)
       * [Blood Types](#blood-types)
          * [blood_type_offspring.py](#blood_type_offspringpy)
          * [blood_type_mother.py](#blood_type_motherpy)
@@ -18,6 +19,13 @@ Table of Contents
       * [Epistasis](#epistasis)
          * [epistasis_test_cross.py](#epistasis_test_crosspy)
          * [epistasis_inverse_test_cross.py](#epistasis_inverse_test_crosspy)
+      * [X-linked disorders](#x-linked-disorders)
+         * [poisson_flies.py](#poisson_fliespy)
+      * [Chi-Squared Analysis](#chi-squared-analysis)
+         * [Table of Chi-Squared (χ<sup>2</sup>) Critical Values](#table-of-chi-squared-χ2-critical-values)
+         * [chi_square_errors.py](#chi_square_errorspy)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 ## Blood Types
@@ -116,6 +124,56 @@ Table of Contents
 - [x] E. homozygous mutant female (ww) and mutant male (w&ndash;)
 
 ## Chi-Squared Analysis
+
+### Table of Chi-Squared (χ<sup>2</sup>) Critical Values
+
+<table border="1" style="border: 1px solid gray; border-collapse: collapse;"><colgroup width="100"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup> <colgroup width="60"></colgroup>
+<tbody>
+<tr><th colspan="9" align="center" style="background-color: gainsboro;">Table of Chi-Squared (χ<sup>2</sup>) Critical Values</th></tr>
+<tr><th rowspan="2" align="center" style="background-color: silver;">Degrees of Freedom</th><th colspan="8" align="center" style="background-color: silver;">Probability</th></tr>
+<tr><th align="center" style="background-color: gainsboro;">0.95</th><th align="center" style="background-color: gainsboro;">0.90</th><th align="center" style="background-color: gainsboro;">0.75</th><th align="center" style="background-color: gainsboro;">0.50</th><th align="center" style="background-color: gainsboro;">0.25</th><th align="center" style="background-color: gainsboro;">0.10</th><th align="center" style="background-color: gainsboro;">0.05</th><th align="center" style="background-color: gainsboro;">0.01</th></tr>
+<tr><th align="center" style="background-color: silver;">1</th>
+<td align="center">0.00</td>
+<td align="center">0.02</td>
+<td align="center">0.10</td>
+<td align="center">0.45</td>
+<td align="center">1.32</td>
+<td align="center">2.71</td>
+<td align="center">3.84</td>
+<td align="center">6.63</td>
+</tr>
+<tr><th align="center" style="background-color: silver;">2</th>
+<td align="center">0.10</td>
+<td align="center">0.21</td>
+<td align="center">0.58</td>
+<td align="center">1.39</td>
+<td align="center">2.77</td>
+<td align="center">4.61</td>
+<td align="center">5.99</td>
+<td align="center">9.21</td>
+</tr>
+<tr><th align="center" style="background-color: silver;">3</th>
+<td align="center">0.35</td>
+<td align="center">0.58</td>
+<td align="center">1.21</td>
+<td align="center">2.37</td>
+<td align="center">4.11</td>
+<td align="center">6.25</td>
+<td align="center">7.81</td>
+<td align="center">11.34</td>
+</tr>
+<tr><th align="center" style="background-color: silver;">4</th>
+<td align="center">0.71</td>
+<td align="center">1.06</td>
+<td align="center">1.92</td>
+<td align="center">3.36</td>
+<td align="center">5.39</td>
+<td align="center">7.78</td>
+<td align="center">9.49</td>
+<td align="center">13.28</td>
+</tr>
+</tbody>
+</table>
 
 ### chi_square_errors.py
 
