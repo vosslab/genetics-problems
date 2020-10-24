@@ -115,3 +115,58 @@ Table of Contents
 - [ ] D. homozygous mutant female (ww) and wildtype male (+&ndash;)
 - [x] E. homozygous mutant female (ww) and mutant male (w&ndash;)
 
+## Chi-Squared Analysis
+
+### chi_square_errors.py
+
+* [Download list of questions in blackboard upload format](blackboard_upload/bbq-chi_square_errors.txt)
+
+<p>1. <table border="1" style="border: 1px solid black; border-collapse: collapse;"><colgroup width="160"></colgroup> <colgroup width="80"></colgroup> <colgroup width="80"></colgroup> <colgroup width="100"></colgroup> <colgroup width="80"></colgroup>
+<tbody>
+<tr><th align="center" style="background-color: lightgray;">Phenotype</th><th align="center" style="background-color: lightgray;">Expected</th><th align="center" style="background-color: lightgray;">Observed</th><th align="center" style="background-color: lightgray;">Calculation</th><th align="center" style="background-color: lightgray;">Statistic</th></tr>
+<tr>
+<td>Yellow Round (Y–R–)</td>
+<td align="center">90</td>
+<td align="center">94</td>
+<td align="center"><sup>(94-90)<sup>2</sup></sup>⁄ <sub>90</sub></td>
+<td align="center">0.178</td>
+</tr>
+<tr>
+<td>Yellow Wrinkled (Y–rr)</td>
+<td align="center">30</td>
+<td align="center">21</td>
+<td align="center"><sup>(21-30)<sup>2</sup></sup>⁄ <sub>30</sub></td>
+<td align="center">2.700</td>
+</tr>
+<tr>
+<td>Green Round (yyR–)</td>
+<td align="center">30</td>
+<td align="center">33</td>
+<td align="center"><sup>(33-30)<sup>2</sup></sup>⁄ <sub>30</sub></td>
+<td align="center">0.300</td>
+</tr>
+<tr>
+<td>Green Wrinkled (yyrr)</td>
+<td align="center">10</td>
+<td align="center">12</td>
+<td align="center"><sup>(12-10)<sup>2</sup></sup>⁄ <sub>10</sub></td>
+<td align="center">0.400</td>
+</tr>
+<tr>
+<td colspan="4" align="right" style="background-color: lightgray;">(sum) χ<sup>2</sup> = </td>
+<td align="center">3.578</td>
+</tr>
+</tbody>
+</table></p>
+<p></p>
+<p>The final result gives the chi-squared (χ<sup>2</sup>) test value of 3.58 with 3 degrees of freedom. Using the Table of χ<sup>2</sup> Critical Values and a level of significance α=0.50, we get a critical value of 2.37. Since the chi-squared (χ<sup>2</sup>) test value of 3.58 is greater than the critical value of 2.37, the null hypothesis was rejected.</p>
+<hr />
+<p>Your lab partner has done a chi-squared (χ<sup>2</sup>) test for your lab data (above), for the F<sub>2</sub> generation in a standard dihybid cross. They wanted to know if the results confirm the expected phenotype ratios, but as usual they did something wrong. <strong>Where did they do wrong?</strong></p>
+
+- [ ] A. the expected progeny for the null hypothesis is incorrect
+- [ ] B. the degrees of freedom is wrong
+- [ ] C. the numbers in the calculation have to be squared
+- [ ] D. the wrong numbers in the calculation were used for division
+- [x] E. the wrong rejection criteria was used
+
+
