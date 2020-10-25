@@ -236,4 +236,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 A women has nine (9) children, what is the probability that she has exactly five (5) boys and four (4) girls?
 
+![Image of Probabiliy of Progeny problem](images/probabiliy_of_progeny.png)
+
+
 
