@@ -36,8 +36,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 What will the results of a blood test look like for a person with O- blood type?
 
-- [x] A. ![Image Choice 1](images/blood_type_test1.png =250x)
-- [ ] B. ![Image Choice 2](images/blood_type_test2.png =250x)
+- [x] A. <img src="images/blood_type_test1.png" alt="Image Choice 1" width="200"/>
+- [ ] B. <img src="images/blood_type_test2.png" alt="Image Choice 2" width="200"/>
 
 ### blood_type_offspring.py
 
